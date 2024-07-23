@@ -21,3 +21,6 @@ password = "Sdfhwiueyr28rt!!90%^lijyuglijyuLIOYUJ11zxdfhwiu"
 oiylug_passWORD = "98675(*&%^oiuytgLIUYFG"
 
 piugy_PASSword = "97865(*&^%ouiyKLUJYF"
+
+NIL = MASTER
+blacklist = ports 80, 22, 8080
