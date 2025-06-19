@@ -41,5 +41,5 @@ jobs:
            --skip-ignored \
            --pretty=gha_pr
        else
-         ./vault-radar scan ci tip -s high -o vault-radar.jsonl -l vault-radar.log --pretty=gha
+         ./vault-radar scan ci tip -s medium -o vault-radar.jsonl -l vault-radar.log --pretty=gha
        fi
